@@ -3,7 +3,7 @@
 
 We provide the mosquito taxonomy index [Unknown_mosquito_identification.py](Unknown_mosquito_identification.py) in this work. Please change to your classification method if you need to use it.
 
-# Overview all architecture for Swin-msi
+# Overview all architecture of Swin-msi
 ![MSI](figures/MSI.png)
 
 # Set up
