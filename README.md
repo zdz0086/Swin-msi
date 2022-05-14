@@ -6,10 +6,10 @@ Before using it, you should get the swin transformer on the [Swin-Transformer](h
 We provide the mosquito taxonomy index [Unknown_mosquito_identification.py](Unknown_mosquito_identification.py) in this work. Please change to your classification method if you need to use it.
 
 # Overview Architecture for swin msi
-![teaser]()
+![MSI](figures/MSI.png)
 
-# set up
-Install swin transformer environment
+# Set up
+Install swin transformer environment:[Swin-Transformer](https://github.com/microsoft/Swin-Transformer.git)
 
 # Run the code
 0. To train a `Swin msi` on ImageNet format dataset,run:
